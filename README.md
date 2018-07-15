@@ -1,1 +1,1 @@
-Day1: Introduction to Linear algebra Lectures 1 - 
+Day1: Introduction to Linear algebra Lectures 1 - 6
